@@ -1,0 +1,58 @@
+body {
+    background-color:white;
+}
+.paybox{  
+    margin:auto;
+    text-align:center;
+    position:relative;
+    height:320px;
+    width:350px;
+    background-color:skyblue;
+    border-radius:14px;
+}
+ 
+ #profile{
+     display:inline ;
+ }
+#shareit, #payag{
+    display:inline-block ;
+    background-color:white;
+    padding:10px;
+    border-radius:20px;
+    
+}
+#blue{
+   height:4px;
+    }
+#amnt{
+    font-size:30px;
+    font-weight:strong;
+    position:relative ;
+    top:20px;
+}
+#circle{
+    position:relative ;
+    left:-90px;
+    top:20px;
+}
+#name {
+    position:relative ;
+    left:100px;
+    top:10px;
+}
+#bankd{
+   position:relative ;
+    left:100px;
+    top:0px; 
+}
+#paydt{
+    position:relative ;
+    top:20px;
+}
+#urfno{
+    position:relative ;
+    top:15px;
+}
+#btns{
+    padding-top:15px;
+}
